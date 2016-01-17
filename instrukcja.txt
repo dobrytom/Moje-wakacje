@@ -1,4 +1,0 @@
-Instrukcja instalacji:
-1)Ustaw parametry po³¹czenia z baz¹ danych (Mysql) w pliku config.php
-2)wgraj zawartoœæ pliku sql.txt( pamietaj, ¿eby nie wgraæ przypadkiem sql.php ) do swojej bazy danych( np.za pomoc¹ phpMyAdmin )
-3)Wgraj pliki na serwer
